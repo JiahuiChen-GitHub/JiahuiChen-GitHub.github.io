@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiahuichen-github.github.io</id>
     <title>JiahuiChen-GitHub</title>
-    <updated>2021-01-26T06:13:55.269Z</updated>
+    <updated>2021-01-26T10:33:51.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiahuichen-github.github.io"/>
     <link rel="self" href="https://jiahuichen-github.github.io/atom.xml"/>
@@ -31,7 +31,6 @@ A novel graph-based solution for image problem.</p>
 <li>Construct a Kinship Reasoning Graph.</li>
 </ul>
 <h2 id="network-architecture">Network Architecture</h2>
-<figure data-type="image" tabindex="1"><img src="https://jiahuichen-github.github.io/post-images/1611641527745.PNG" alt="" loading="lazy"></figure>
 <ol>
 <li>ResNet-18 for extrcating image features.</li>
 <li>GNN on a kinship reasoning graph.</li>
