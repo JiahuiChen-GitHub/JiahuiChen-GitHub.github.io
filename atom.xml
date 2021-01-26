@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiahuichen-github.github.io</id>
     <title>JiahuiChen-GitHub</title>
-    <updated>2021-01-24T13:09:31.859Z</updated>
+    <updated>2021-01-26T05:23:23.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiahuichen-github.github.io"/>
     <link rel="self" href="https://jiahuichen-github.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://jiahuichen-github.github.io/post/notesgraph-based-kinship-reasoning-network/">
         </link>
         <updated>2021-01-24T03:15:42.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="title">Title</h2>
+        <summary type="html"><![CDATA[<p>A new graph-based solution for image problrm.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>A new graph-based solution for image problrm.</p>
+<!-- more -->
+<h2 id="title">Title</h2>
 <p>Graph-Based Kinship Reasoning NetWork</p>
 <h2 id="problem-description">Problem Description</h2>
 <p>Giving two face images, determing whether these two people have kinship.</p>
